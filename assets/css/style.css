@@ -888,7 +888,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #153448;}
 }
 .footer-social a ,.footer-social span {
     display: inline-block;
-    color: #afb4bf;
+    color: #153448;
+    
     font-size: 14px;
     margin-left: 15px;
     -webkit-transition: .3s; 
